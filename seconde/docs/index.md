@@ -4,7 +4,7 @@ texte random
 
 ## Test de texte
 
-# Welcome to MkDocs
+# Welcome to MkDocs, même si macOS Monterey est mieux
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
